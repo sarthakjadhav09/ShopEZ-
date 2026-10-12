@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopEZ
 
 Full-stack MERN application.
@@ -13,3 +14,6 @@ Full-stack MERN application.
 - Axios
 - JWT
 - bcryptjs
+=======
+# ShopEZ-
+>>>>>>> 480995daeb58417f52dfd2172ae846552280a9bd
